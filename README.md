@@ -1,5 +1,5 @@
 # BlindExamination
-Examination for the 
+Examination for the blind
 
-uses googles text to speech 
+Uses googles text to speech 
 
